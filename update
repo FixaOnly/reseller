@@ -1,0 +1,9 @@
+{
+  "app_control": {
+    "latest_version": 1,
+    "apk_url": "https://domainlu.com/fixa_update.apk",
+    "force_update": false,
+    "maintenance": false,
+    "maintenance_message": "Server sedang maintenance. Coba lagi nanti."
+  }
+}
